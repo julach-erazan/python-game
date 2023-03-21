@@ -19,3 +19,4 @@ while segments.count(head)%2*head%n*(head&240):
     pg.display.flip()
     head+=step
     pg.time.wait(100)
+    
